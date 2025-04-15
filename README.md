@@ -6,8 +6,8 @@
 
 - [Мультиплексор](./multiplexer)
 - [Демультиплексор](./demultiplexer)
-- [Шифратор (encoder)](./encoder)
-- [Дешифратор (decoder)](./decoder)
+- [Шифратор](./encoder)
+- [Дешифратор](./decoder)
 - [Конечный автомат (FSM)](./fsm_3state)
 - [RLE-компрессор с двумя RAM](./rle_compression)
 
