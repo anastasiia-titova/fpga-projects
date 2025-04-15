@@ -4,8 +4,8 @@
 
 ## Список проектов:
 
-- [Мультиплексор](./multiplexor)
-- [Демультиплексор](./demultiplexor)
+- [Мультиплексор](./multiplexer)
+- [Демультиплексор](./demultiplexer)
 - [Шифратор (encoder)](./encoder)
 - [Дешифратор (decoder)](./decoder)
 - [Конечный автомат (FSM)](./fsm_3state)
